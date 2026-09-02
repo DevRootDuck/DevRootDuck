@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou Felipe</h1>
+<h1 align="center">Olá, eu sou Felipe Martins Santos</h1>
 <h3 align="center">Desenvolvedor apaixonado por programação, interfaces e criação de projetos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrootduck&label=Profile%20views&color=0e75b6&style=flat" alt="devrootduck" /> </p>
