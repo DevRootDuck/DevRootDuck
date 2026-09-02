@@ -96,13 +96,9 @@ Gosto de transformar ideias em projetos funcionais, explorar novas tecnologias e
 
 ## Estatísticas
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRootDuck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRootDuck&layout=compact&theme=github_dark"/>
-
-</div>
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="Estatísticas do GitHub" width="100%" />
+</p>
 
 ## GitHub
 
