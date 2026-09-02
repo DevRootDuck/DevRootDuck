@@ -74,6 +74,24 @@ Gosto de transformar ideias em projetos funcionais, explorar novas tecnologias e
   </a>
 </p>
 
+## Projetos
+
+<div align="center">
+
+<a href="https://github.com/DevRootDuck/Aim-Trainer-FPS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevRootDuck&repo=Aim-Trainer-FPS&theme=github_dark" />
+</a>
+
+<a href="https://github.com/DevRootDuck/Ambar-Restaurante">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevRootDuck&repo=Ambar-Restaurante&theme=github_dark" />
+</a>
+
+<a href="https://github.com/DevRootDuck/PC-Pulse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevRootDuck&repo=PC-Pulse&theme=github_dark" />
+</a>
+
+</div>
+
 ## GitHub
 
 <p align="center">
