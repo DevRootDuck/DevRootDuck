@@ -19,8 +19,7 @@ jobs:
       - name: Gerar estatísticas
         run: |
           mkdir -p assets
-
-          python3 scripts/generate_stats.py
+          node generate-stats.js
 
       - name: Salvar estatísticas
         run: |
